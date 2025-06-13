@@ -108,6 +108,9 @@ student-class-crud-api/
 | GET | `/` | API information |
 
 ### Class Management
+
+![Screenshot (108)](https://github.com/user-attachments/assets/7c3f3087-6e6c-492d-8997-1b5f2a4b0342)
+
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | POST | `/api/classes` | Create a new class |
@@ -117,6 +120,9 @@ student-class-crud-api/
 | DELETE | `/api/classes/:id` | Delete class by ID |
 
 ### Student Management
+
+![Screenshot (107)](https://github.com/user-attachments/assets/f1787bd7-6bb8-4c95-a098-3c8bc3f75220)
+
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | POST | `/api/students` | Create a new student |
@@ -131,9 +137,6 @@ student-class-crud-api/
 
 ### Create a Class
 
-![Screenshot (108)](https://github.com/user-attachments/assets/7c3f3087-6e6c-492d-8997-1b5f2a4b0342)
-
-
 ```bash
 POST /api/classes
 Content-Type: application/json
@@ -145,9 +148,6 @@ Content-Type: application/json
 ```
 
 ### Create a Student
-
-![Screenshot (107)](https://github.com/user-attachments/assets/f1787bd7-6bb8-4c95-a098-3c8bc3f75220)
-
 
 ```bash
 POST /api/students
