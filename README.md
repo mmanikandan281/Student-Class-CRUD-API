@@ -250,6 +250,9 @@ npm test           # Run tests (not implemented yet)
 
 ## 🧪 Testing with Postman
 
+![image](https://github.com/user-attachments/assets/2dbddf16-b6a8-4a59-9e57-7e3585547581)
+
+
 Import the provided Postman collection `Student-Class-CRUD-API.postman_collection.json` to test all endpoints. The collection includes:
 
 - Pre-configured requests for all endpoints
@@ -265,9 +268,6 @@ Import the provided Postman collection `Student-Class-CRUD-API.postman_collectio
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙋‍♂️ Support
 
