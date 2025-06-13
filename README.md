@@ -130,6 +130,10 @@ student-class-crud-api/
 ## 📝 API Usage Examples
 
 ### Create a Class
+
+![Screenshot (108)](https://github.com/user-attachments/assets/7c3f3087-6e6c-492d-8997-1b5f2a4b0342)
+
+
 ```bash
 POST /api/classes
 Content-Type: application/json
@@ -141,6 +145,10 @@ Content-Type: application/json
 ```
 
 ### Create a Student
+
+![Screenshot (107)](https://github.com/user-attachments/assets/f1787bd7-6bb8-4c95-a098-3c8bc3f75220)
+
+
 ```bash
 POST /api/students
 Content-Type: application/json
